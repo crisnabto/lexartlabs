@@ -1,4 +1,4 @@
-# Database challenge
+# Database challenge - Lexart 
 
 Download the World database from the following link: https://dev.mysql.com/doc/index-other.html and import it into PHPMYADMIN or another database management system.
 
